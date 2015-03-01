@@ -1,0 +1,18 @@
+header {
+	background-color: #9BE3A8;
+	position: fixed;
+	width: 100%;
+}
+
+#header_title {
+	color: white;
+	font-size: 40px;
+	font-family: 'Raleway',sans-serif;
+	float: left;
+	margin: 20px;
+}
+
+#sm_icons {
+	float:right;
+	margin: 20px;
+}
